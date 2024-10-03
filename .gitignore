@@ -1,4 +1,17 @@
 *.jpg
-*.pth
-*.npy
+*.png
 
+*.pth
+*.tar
+
+*.npy
+*.csv
+*.json
+*.txt
+
+__pycache__
+
+metrics/
+inferences/
+medatada/
+checkpoints/
